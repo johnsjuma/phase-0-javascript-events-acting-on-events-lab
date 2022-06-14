@@ -14,8 +14,8 @@ function moveDodgerRight() {
     dodger.style.left = `${left + 1}px`
   }
 }
-
-    
+// const dodger = document.getElementById("dodger");
+dodger.style.backgroundColor = "#FF69B4";
           
             
     
